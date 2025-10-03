@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/22681227/README.md)
 # Instagram Post Downloader (Next.js)
 
 Full‑stack Next.js app that lets you paste a public Instagram post URL, resolves direct media links via a configurable resolver API, and downloads media through a server endpoint.
